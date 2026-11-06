@@ -39,9 +39,9 @@
     <string name="mode_screen_recording">Grabacion</string>
     <string name="mode_timer">Temporizador</string>
     <string name="mode_stopwatch">Cronometro</string>
-    <string name="btn_clear_all_test_notifications">Despejado</string>
-    <string name="toast_cleared_test_notifications">Alertas de demostración activas despejadas</string>
-    <string name="quick_test_controls">Controles rápidos de prueba</string>
+    <string name="btn_clear_all_test_notifications">Eliminar notificaciónes</string>
+    <string name="toast_cleared_test_notifications">Notificaciónes de prueba activas eliminadas</string>
+    <string name="quick_test_controls">Notificaciónes de prueba rapidas</string>
     <string name="btn_notify">Notificar</string>
     <string name="btn_call">Llamada</string>
     <string name="btn_music">Música</string>
@@ -68,11 +68,11 @@
     <string name="sec_about">Acerca de</string>
     <string name="sec_about_desc">Versión de aplicación, política de privacidad, términos " desarrollador de contacto</string>
     <string name="card_notifications_privacy_title">Notificaciones " Privacidad</string>
-    <string name="card_notifications_privacy_desc">Pantalla de bloqueo, autoexpand, filtros de aplicación de acciones</string>
-    <string name="card_notifications_privacy_status_lock">Cerradura</string>
+    <string name="card_notifications_privacy_desc">Pantalla de bloqueo, autoexpandir, filtros de aplicaciónes, acciones</string>
+    <string name="card_notifications_privacy_status_lock">Pantalla de bloqueo</string>
     <string name="card_notifications_privacy_status_standard">Estándar</string>
     <string name="card_app_shortcuts_title">Atajos de aplicaciones</string>
-    <string name="card_app_shortcuts_desc">Deja presionado la isla colapsada para los atajos de aplicaciones</string>
+    <string name="card_app_shortcuts_desc">Deja presionada la isla colapsada para los atajos de aplicaciones</string>
     <string name="card_app_shortcuts_status">%1$d/8 pinned</string>
     <string name="card_app_shortcuts_status_disabled">Desactivado</string>
     <string name="card_notification_history_title">Historia de la notificación</string>
